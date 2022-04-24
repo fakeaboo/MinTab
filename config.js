@@ -24,7 +24,7 @@ const ICONS = [
 const LIST_ITEMS = [
   {
     name: "music",
-    link: "https://music.apple.com/ph/browse"
+    link: "https://music.apple.com/ph/browse/"
   },
   {
     name: "netflix",
